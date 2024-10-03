@@ -1,9 +1,7 @@
-## Notice
 
-As of now, the [ryujinx-mirror/ryujinx](https://github.com/ryujinx-mirror/ryujinx) repository serves simply as a downstream fork of the original Ryujinx project, and won't be accepting any new changes until further information arises.
 
 > [!NOTE]
-> This mirror is not affiliated with the original Ryujinx project, or Nintendo whatsoever.
+> This mirror is not affiliated with the original Ryujinx project, or Nintendo whatsoever. This is a backup of the now deceased ryujinx project.
 
 ### Current Goals
 
